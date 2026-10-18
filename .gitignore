@@ -1,0 +1,5 @@
+build/
+web/engine.js
+web/engine.wasm
+.DS_Store
+.claude/
