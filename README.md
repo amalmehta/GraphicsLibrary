@@ -23,3 +23,7 @@ flowchart LR
 | [System design](docs/SYSTEM-DESIGN.md) | Architecture, flows, physics, trade-offs, limits |
 | [File structure](docs/FILE-STRUCTURE.md) | What's where |
 | [Light mode](docs/images/blackhole-light.png) · [Dark waterfall](docs/images/waterfall-dark.png) | More screenshots |
+
+## How it was built
+
+How this was built and how it works, with diagrams: [docs/HOW-IT-WAS-BUILT.md](docs/HOW-IT-WAS-BUILT.md)
