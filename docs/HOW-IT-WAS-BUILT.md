@@ -6,7 +6,7 @@ GraphicsLibrary is a small C++ graphics engine that runs in a web page. It shows
 ## Build history
 
 ```mermaid
-flowchart LR
+flowchart TD
     idea["Idea: a C++ graphics library that can simulate any visualization, like a waterfall or a black hole"]
     stack["Decision: C++ to WebAssembly plus WebGL2"]
     tone["Decision: physically grounded, restrained look"]
